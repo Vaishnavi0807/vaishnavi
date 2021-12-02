@@ -9,6 +9,7 @@
   * THE GREAT DEN
   * HUSKY
   * LAB
+  * POMERIAN
 
 ![1D](https://pbs.twimg.com/media/BysiPPOIUAAV-_V.jpg)
 
